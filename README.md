@@ -12,6 +12,6 @@ $ docker run my-goapp
 Size of images:
 
 ```
-golang                                         alpine              57915f96905a        4 weeks ago         310MB
-my-goapp                                       latest              c29b49f21a3c        11 minutes ago      6.87MB
+golang               alpine              57915f96905a        4 weeks ago         310MB
+my-goapp             latest              c29b49f21a3c        11 minutes ago      6.87MB
 ```
